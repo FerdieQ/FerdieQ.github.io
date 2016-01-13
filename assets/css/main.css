@@ -1299,9 +1299,9 @@
 		.image img {
 			display: block;
 			width: 100%;
-			max-width: 384px;
-			max-height: 269px;
-			padding: 10px;
+			max-width: 170px;
+			max-height: 170px;
+			padding-top: 10px;
 
 		}
 
